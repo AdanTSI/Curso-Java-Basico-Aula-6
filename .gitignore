@@ -1,0 +1,6 @@
+echo "# Curso-Java-Basico-Aula-6" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/AdanTSI/Curso-Java-Basico-Aula-6.git
+git push -u origin master
